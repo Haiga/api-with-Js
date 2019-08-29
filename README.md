@@ -7,6 +7,11 @@ Exemplo de criação de uma Api utilizando Javascript.
 yarn install
 ```
 
+## Install Nodemon
+```
+npm install -g nodemon
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
